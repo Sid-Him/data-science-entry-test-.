@@ -1,4 +1,3 @@
-def swap_values(x, y):
 # Task 1
     # Check if both x and y are numeric
     if not (isinstance(x, (int, float)) and isinstance(y, (int, float))):
