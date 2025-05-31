@@ -31,13 +31,13 @@
 number1 = 10
 div1 = 2
 result1 = check_divisibility(number1, div1)
-print(f"Is {number1} divisible by {div1}? {result1}\n")
+print(f"Is {number1} divisible by {div1}? {result1}")
 # Expected output True
 
 # Scenario 2: 7, 3
 number2 = 7
 div2 = 3
 result2 = check_divisibility(number2, div2)
-print(f"Is {number2} divisible by {div2}? {result2}\n")
+print(f"Is {number2} divisible by {div2}? {result2}")
 # Expected output = False
 # I then invoked the function with your specified scenarios (10, 2 and 7, 3) and printed their results.
