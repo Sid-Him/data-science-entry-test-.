@@ -5,6 +5,9 @@ if not isinstance(s, str):
 
     reversed_s = s[::-1]
     return reversed_s
+# I've completed the string_reverse function as you defined it. 
+# It includes a check to ensure the input is a string and then uses string slicing [::-1] to efficiently reverse it.
+
 # Task 2 
 # Scenario 1: "Hello World"
 string1 = "Hello World"
@@ -17,3 +20,5 @@ string2 = "Python"
 reversed_string2 = string_reverse(string2)
 print(f"Original string: '{string2}'")
 print(f"Reversed string: '{reversed_string2}'")
+# I've also invoked the function with the two scenarios you provided: 
+# "Hello World" and "Python", and printed the original and reversed strings for each.
