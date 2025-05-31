@@ -29,11 +29,11 @@
 list1 = [3, 5, -1, 7, -2, 8]
 result1 = find_first_negative(list1)
 print(f"List: {list1}, First negative: {result1}")
-# # In scenario 1, the the expected output is -1
+# In scenario 1, the expected output is -1
 
 # Scenario 2: [2, 10, 7, 0]
 list2 = [2, 10, 7, 0]
 result2 = find_first_negative(list2)
 print(f"List: {list2}, First negative: {result2}")
-# In Scenario 2 the expected output is none.
+# In Scenario 2 the expected output is none
 
